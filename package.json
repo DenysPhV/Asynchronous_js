@@ -6,9 +6,7 @@
   "homepage": "https://DenysPhV.github.io/Asynchronous_js/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Asynchronous_js/",
-    "deploy": "gh-pages -d dist",
-    "predeploy": "npm run build"
+    "build": "parcel build src/*.html --public-url /Asynchronous_js/"
   },
   "repository": {
     "type": "git",
